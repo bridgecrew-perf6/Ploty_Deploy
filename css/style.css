@@ -1,0 +1,10 @@
+body {
+    background-color: #ffff;
+    color: #37402d;
+}
+
+.jumbotron {
+    background-image: url("../images/header.jpg");
+    background-size: 100%;
+    color: white;
+} 
